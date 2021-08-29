@@ -4,7 +4,7 @@ Git contains:
 * preprocessing.txt file for demultiplexing/removing adaptors
 * Community_Data.zip containing all data for bioinformatic section of workshop
 * html of R code produced by knitr. Can also access via this link
-https://htmlpreview.github.io/?https://github.com/jamesfifer/UOG_Metabarcoding_WS/blob/main/dada2_tut.html
+https://raw.githack.com/jamesfifer/UOG_Metabarcoding_WS/main/dada2_tut.html
 
 
 16S protocol link (feel free to comment directly on the doc) https://docs.google.com/document/d/1BtzU9Ti7E6w7_OsJvvYmTTA8wjmqnOQGcEBK2EEhOuA/edit?usp=sharing
